@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/W32TeX) (preloaded format=pdflatex 2021.6.25)  12 JUL 2021 10:29
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/W32TeX) (preloaded format=pdflatex 2021.6.25)  13 JUL 2021 23:20
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -662,137 +662,121 @@ Underfull \hbox (badness 10000) in paragraph at lines 116--116
  []
 
 [1{c:/texlive/2019/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
-<image01.png, id=41, 411.939pt x 158.994pt>
+<image01.png, id=64, 411.939pt x 158.994pt>
 File: image01.png Graphic file (type png)
 <use image01.png>
-Package pdftex.def Info: image01.png  used on input line 151.
+Package pdftex.def Info: image01.png  used on input line 150.
 (pdftex.def)             Requested size: 411.93797pt x 158.9936pt.
- [2]
-<image02.png, id=49, 397.485pt x 180.675pt>
+ [2 <./image01.png>]
+<image02.png, id=92, 381.70605pt x 180.675pt>
 File: image02.png Graphic file (type png)
 <use image02.png>
-Package pdftex.def Info: image02.png  used on input line 164.
-(pdftex.def)             Requested size: 397.48402pt x 180.67455pt.
- [3 <./image01.png> <./image02.png>]
-<image03.png, id=58, 397.485pt x 180.675pt>
+Package pdftex.def Info: image02.png  used on input line 165.
+(pdftex.def)             Requested size: 381.70512pt x 180.67455pt.
+ [3 <./image02.png>]
+<image03.png, id=110, 397.485pt x 180.675pt>
 File: image03.png Graphic file (type png)
 <use image03.png>
-Package pdftex.def Info: image03.png  used on input line 179.
+Package pdftex.def Info: image03.png  used on input line 181.
 (pdftex.def)             Requested size: 397.48402pt x 180.67455pt.
-<image04.png, id=60, 397.485pt x 180.675pt>
+<image04.png, id=113, 397.485pt x 180.675pt>
 File: image04.png Graphic file (type png)
 <use image04.png>
-Package pdftex.def Info: image04.png  used on input line 190.
+Package pdftex.def Info: image04.png  used on input line 192.
 (pdftex.def)             Requested size: 397.48402pt x 180.67455pt.
- [4 <./image03.png>]
-<image05.png, id=70, 469.755pt x 130.086pt>
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[4 <./image03.png>]
+<image05.png, id=139, 289.08pt x 108.405pt>
 File: image05.png Graphic file (type png)
 <use image05.png>
-Package pdftex.def Info: image05.png  used on input line 219.
-(pdftex.def)             Requested size: 469.75386pt x 130.08566pt.
-
-Overfull \hbox (51.50018pt too wide) in paragraph at lines 219--220
- [][] 
- []
-
-[5 <./image04.png> <./image05.png>]
-<image06.png, id=85, 433.62pt x 216.81pt>
+Package pdftex.def Info: image05.png  used on input line 224.
+(pdftex.def)             Requested size: 289.07928pt x 108.40472pt.
+ [5 <./image04.png> <./image05.png>]
+<image06.png, id=161, 433.62pt x 180.675pt>
 File: image06.png Graphic file (type png)
 <use image06.png>
-Package pdftex.def Info: image06.png  used on input line 245.
-(pdftex.def)             Requested size: 433.61894pt x 216.80946pt.
+Package pdftex.def Info: image06.png  used on input line 248.
+(pdftex.def)             Requested size: 433.61894pt x 180.67455pt.
 
-Overfull \hbox (15.36526pt too wide) in paragraph at lines 245--246
+Overfull \hbox (15.36526pt too wide) in paragraph at lines 248--249
  [][] 
  []
 
-[6] [7 <./image06.png>]
-
-LaTeX Warning: No positions in optional float specifier.
-               Default added (so using `tbp') on input line 293.
-
-
-LaTeX Warning: No positions in optional float specifier.
-               Default added (so using `tbp') on input line 313.
-
-<Figure_1.png, id=106, 462.528pt x 344.487pt>
+[6 <./image06.png>] [7]
+<Figure_1.png, id=186, 462.528pt x 344.487pt>
 File: Figure_1.png Graphic file (type png)
 <use Figure_1.png>
-Package pdftex.def Info: Figure_1.png  used on input line 342.
+Package pdftex.def Info: Figure_1.png  used on input line 344.
 (pdftex.def)             Requested size: 144.54pt x 107.65192pt.
 
-Overfull \hbox (6.51552pt too wide) in paragraph at lines 342--342
+Overfull \hbox (6.51552pt too wide) in paragraph at lines 344--344
  [][] 
  []
 
-<Figure_2.png, id=108, 462.528pt x 344.487pt>
+<Figure_2.png, id=188, 462.528pt x 344.487pt>
 File: Figure_2.png Graphic file (type png)
 <use Figure_2.png>
-Package pdftex.def Info: Figure_2.png  used on input line 348.
+Package pdftex.def Info: Figure_2.png  used on input line 350.
 (pdftex.def)             Requested size: 144.54pt x 107.65192pt.
 
-Overfull \hbox (6.51552pt too wide) in paragraph at lines 348--348
+Overfull \hbox (6.51552pt too wide) in paragraph at lines 350--350
  [][] 
  []
 
-<Figure_3.png, id=109, 462.528pt x 344.487pt>
+<Figure_3.png, id=189, 462.528pt x 344.487pt>
 File: Figure_3.png Graphic file (type png)
 <use Figure_3.png>
-Package pdftex.def Info: Figure_3.png  used on input line 354.
+Package pdftex.def Info: Figure_3.png  used on input line 356.
 (pdftex.def)             Requested size: 144.54pt x 107.65192pt.
 
-Overfull \hbox (6.51552pt too wide) in paragraph at lines 354--354
+Overfull \hbox (6.51552pt too wide) in paragraph at lines 356--356
  [][] 
  []
 
 
-Overfull \hbox (4.31987pt too wide) in paragraph at lines 342--356
+Overfull \hbox (4.31987pt too wide) in paragraph at lines 344--358
  [][][][][][] 
  []
 
-<Figure_4.png, id=110, 462.528pt x 344.487pt>
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+<Figure_4.png, id=190, 462.528pt x 344.487pt>
 File: Figure_4.png Graphic file (type png)
 <use Figure_4.png>
-Package pdftex.def Info: Figure_4.png  used on input line 361.
-(pdftex.def)             Requested size: 216.81pt x 161.47787pt.
+Package pdftex.def Info: Figure_4.png  used on input line 363.
+(pdftex.def)             Requested size: 180.67499pt x 134.5649pt.
 
-Overfull \hbox (7.68317pt too wide) in paragraph at lines 361--362
-[][] 
- []
-
-
-Overfull \hbox (1.8889pt too wide) in paragraph at lines 360--387
+Overfull \hbox (1.8889pt too wide) in paragraph at lines 362--390
 []$[]$  $[]$ 
  []
 
 
-Underfull \vbox (badness 1028) has occurred while \output is active []
+LaTeX Warning: `h' float specifier changed to `ht'.
 
- [8]
-[9 <./Figure_1.png> <./Figure_2.png> <./Figure_3.png> <./Figure_4.png>]
-(./EDHR-GAN.bbl
-
-LaTeX Warning: Empty `thebibliography' environment on input line 3.
-
-)
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 477.
- [10]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 477.
+[8] [9 <./Figure_1.png> <./Figure_2.png> <./Figure_3.png> <./Figure_4.png>]
+(./EDHR-GAN.bbl [10])
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 480.
+ [11]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 480.
  (./EDHR-GAN.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 477.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 477.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 480.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 480.
 Package rerunfilecheck Info: File `EDHR-GAN.out' has not changed.
-(rerunfilecheck)             Checksum: ABB5AB2B4BE2F574BE00D571439E9C0C;277.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 477.
+(rerunfilecheck)             Checksum: 6A45102FBE570A7DA76190873D81B9B1;277.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 480.
  ) 
 Here is how much of TeX's memory you used:
- 9160 strings out of 492623
- 135312 string characters out of 6133290
- 244144 words of memory out of 5000000
- 12869 multiletter control sequences out of 15000+600000
- 16038 words of font info for 60 fonts, out of 8000000 for 9000
+ 9219 strings out of 492623
+ 136359 string characters out of 6133290
+ 247172 words of memory out of 5000000
+ 12899 multiletter control sequences out of 15000+600000
+ 16390 words of font info for 61 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 36i,16n,39p,1734b,471s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 36i,16n,39p,1793b,471s stack positions out of 5000i,500n,10000p,200000b,80000s
 <c:/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmbsy10.pfb><c:/te
 xlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb><c:/texlive/201
 9/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx8.pfb><c:/texlive/2019/texmf-di
@@ -806,11 +790,12 @@ texmf-dist/fonts/type1/public/amsfonts/cm/cmr9.pfb><c:/texlive/2019/texmf-dist/
 fonts/type1/public/amsfonts/cm/cmsy6.pfb><c:/texlive/2019/texmf-dist/fonts/type
 1/public/amsfonts/cm/cmsy8.pfb><c:/texlive/2019/texmf-dist/fonts/type1/public/a
 msfonts/cm/cmsy9.pfb><c:/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm
-/cmti9.pfb>
-Output written on EDHR-GAN.pdf (10 pages, 14987820 bytes).
+/cmti8.pfb><c:/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmti9.pfb
+>
+Output written on EDHR-GAN.pdf (11 pages, 16562415 bytes).
 PDF statistics:
- 213 PDF objects out of 1000 (max. 8388607)
- 170 compressed objects within 2 object streams
- 58 named destinations out of 1000 (max. 500000)
+ 322 PDF objects out of 1000 (max. 8388607)
+ 242 compressed objects within 3 object streams
+ 86 named destinations out of 1000 (max. 500000)
  99 words of extra memory for PDF output out of 10000 (max. 10000000)
 
