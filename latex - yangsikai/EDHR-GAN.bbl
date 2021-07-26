@@ -1,3 +1,157 @@
-\begin{thebibliography}{}
+\begin{thebibliography}{10}
+
+\bibitem{anderson2018vision}
+P.~Anderson, Q.~Wu, D.~Teney, J.~Bruce, M.~Johnson, N.~S{\"u}nderhauf, I.~Reid,
+  S.~Gould, and A.~Van Den~Hengel, ``Vision-and-language navigation:
+  Interpreting visually-grounded navigation instructions in real
+  environments,'' in {\em Proceedings of the IEEE Conference on Computer Vision
+  and Pattern Recognition}, pp.~3674--3683, 2018.
+
+\bibitem{fried2018speaker}
+D.~Fried, R.~Hu, V.~Cirik, A.~Rohrbach, J.~Andreas, L.-P. Morency,
+  T.~Berg-Kirkpatrick, K.~Saenko, D.~Klein, and T.~Darrell, ``Speaker-follower
+  models for vision-and-language navigation,'' in {\em Proceedings of the 32nd
+  International Conference on Neural Information Processing Systems},
+  pp.~3318--3329, 2018.
+
+\bibitem{zhu20201vision}
+Y.~Zhu, F.~Zhu, Z.~Zhan, B.~Lin, J.~Jiao, X.~Chang, and X.~Liang,
+  ``Vision-dialog navigation by exploring cross-modal memory,'' in {\em
+  Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern
+  Recognition}, pp.~10730--10739, 2020.
+
+\bibitem{jain2019stay}
+V.~Jain, G.~Magalhaes, A.~Ku, A.~Vaswani, E.~Ie, and J.~Baldridge, ``Stay on
+  the path: Instruction fidelity in vision-and-language navigation,'' in {\em
+  Proceedings of the 57th Annual Meeting of the Association for Computational
+  Linguistics}, pp.~1862--1872, 2019.
+
+\bibitem{antol2015vqa}
+S.~Antol, A.~Agrawal, J.~Lu, M.~Mitchell, D.~Batra, C.~L. Zitnick, and
+  D.~Parikh, ``Vqa: Visual question answering,'' in {\em Proceedings of the
+  IEEE international conference on computer vision}, pp.~2425--2433, 2015.
+
+\bibitem{das2017visual}
+A.~Das, S.~Kottur, K.~Gupta, A.~Singh, D.~Yadav, J.~M. Moura, D.~Parikh, and
+  D.~Batra, ``Visual dialog,'' in {\em Proceedings of the IEEE Conference on
+  Computer Vision and Pattern Recognition}, pp.~326--335, 2017.
+
+\bibitem{landi2019embodied}
+F.~Landi, L.~Baraldi, M.~Corsini, and R.~Cucchiara, ``Embodied
+  vision-and-language navigation with dynamic convolutional filters,'' in {\em
+  30th British Machine Vision Conference}, pp.~1--12, 2019.
+
+\bibitem{hwang2021joint}
+J.~Hwang and I.~Kim, ``Joint multimodal embedding and backtracking search in
+  vision-and-language navigation,'' {\em Sensors}, vol.~21, no.~3, p.~1012,
+  2021.
+
+\bibitem{huang2019transferable}
+H.~Huang, V.~Jain, H.~Mehta, A.~Ku, G.~Magalhaes, J.~Baldridge, and E.~Ie,
+  ``Transferable representation learning in vision-and-language navigation,''
+  in {\em Proceedings of the IEEE/CVF International Conference on Computer
+  Vision}, pp.~7404--7413, 2019.
+
+\bibitem{majumdar2020improving}
+A.~Majumdar, A.~Shrivastava, S.~Lee, P.~Anderson, D.~Parikh, and D.~Batra,
+  ``Improving vision-and-language navigation with image-text pairs from the
+  web,'' in {\em European Conference on Computer Vision}, pp.~259--274,
+  Springer, 2020.
+
+\bibitem{qi2020object}
+Y.~Qi, Z.~Pan, S.~Zhang, A.~van~den Hengel, and Q.~Wu, ``Object-and-action
+  aware model for visual language navigation,'' in {\em Computer Vision--ECCV
+  2020: 16th European Conference, Glasgow, UK, August 23--28, 2020,
+  Proceedings, Part X 16}, pp.~303--317, Springer, 2020.
+
+\bibitem{ma2019regretful}
+C.-Y. Ma, Z.~Wu, G.~AlRegib, C.~Xiong, and Z.~Kira, ``The regretful agent:
+  Heuristic-aided navigation through progress estimation,'' in {\em Proceedings
+  of the IEEE/CVF Conference on Computer Vision and Pattern Recognition},
+  pp.~6732--6740, 2019.
+
+\bibitem{nguyen2019help}
+K.~Nguyen and H.~Daum{\'e}~III, ``Help, anna! visual navigation with natural
+  multimodal assistance via retrospective curiosity-encouraging imitation
+  learning,'' {\em arXiv preprint arXiv:1909.01871}, 2019.
+
+\bibitem{yan2019cross}
+A.~Yan, X.~E. Wang, J.~Feng, L.~Li, and W.~Y. Wang, ``Cross-lingual
+  vision-language navigation,'' {\em arXiv preprint arXiv:1910.11301}, 2019.
+
+\bibitem{chen2019touchdown}
+H.~Chen, A.~Suhr, D.~Misra, N.~Snavely, and Y.~Artzi, ``Touchdown: Natural
+  language navigation and spatial reasoning in visual street environments,'' in
+  {\em Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern
+  Recognition}, pp.~12538--12547, 2019.
+
+\bibitem{hao2020towards}
+W.~Hao, C.~Li, X.~Li, L.~Carin, and J.~Gao, ``Towards learning a generic agent
+  for vision-and-language navigation via pre-training,'' in {\em Proceedings of
+  the IEEE/CVF Conference on Computer Vision and Pattern Recognition},
+  pp.~13137--13146, 2020.
+
+\bibitem{redmon2016you}
+J.~Redmon, S.~Divvala, R.~Girshick, and A.~Farhadi, ``You only look once:
+  Unified, real-time object detection,'' in {\em Proceedings of the IEEE
+  conference on computer vision and pattern recognition}, pp.~779--788, 2016.
+
+\bibitem{ke2019tactical}
+L.~Ke, X.~Li, Y.~Bisk, A.~Holtzman, Z.~Gan, J.~Liu, J.~Gao, Y.~Choi, and
+  S.~Srinivasa, ``Tactical rewind: Self-correction via backtracking in
+  vision-and-language navigation,'' in {\em Proceedings of the IEEE/CVF
+  Conference on Computer Vision and Pattern Recognition}, pp.~6741--6749, 2019.
+
+\bibitem{mao2019mini}
+Q.-C. Mao, H.-M. Sun, Y.-B. Liu, and R.-S. Jia, ``Mini-yolov3: real-time object
+  detector for embedded applications,'' {\em IEEE Access}, vol.~7,
+  pp.~133529--133538, 2019.
+
+\bibitem{girshick2015fast}
+R.~Girshick, ``Fast r-cnn,'' in {\em Proceedings of the IEEE international
+  conference on computer vision}, pp.~1440--1448, 2015.
+
+\bibitem{suhr2018learning}
+A.~Suhr, S.~Iyer, and Y.~Artzi, ``Learning to map context-dependent sentences
+  to executable formal queries,'' in {\em Proceedings of the 2018 Conference of
+  the North American Chapter of the Association for Computational Linguistics:
+  Human Language Technologies, Volume 1 (Long Papers)}, pp.~2238--2249, 2018.
+
+\bibitem{paz2019run}
+T.~Paz-Argaman and R.~Tsarfaty, ``Run through the streets: A new dataset and
+  baseline models for realistic urban navigation,'' in {\em Proceedings of the
+  2019 Conference on Empirical Methods in Natural Language Processing and the
+  9th International Joint Conference on Natural Language Processing
+  (EMNLP-IJCNLP)}, pp.~6449--6455, 2019.
+
+\bibitem{iyer2017learning}
+S.~Iyer, I.~Konstas, A.~Cheung, J.~Krishnamurthy, and L.~Zettlemoyer,
+  ``Learning a neural semantic parser from user feedback,'' in {\em ACL (1)},
+  2017.
+
+\bibitem{vasudevan2021talk2nav}
+A.~B. Vasudevan, D.~Dai, and L.~Van~Gool, ``Talk2nav: Long-range
+  vision-and-language navigation with dual attention and spatial memory,'' {\em
+  International Journal of Computer Vision}, vol.~129, no.~1, pp.~246--266,
+  2021.
+
+\bibitem{zhao2021evaluation}
+M.~Zhao, P.~Anderson, V.~Jain, S.~Wang, A.~Ku, J.~Baldridge, and E.~Ie, ``On
+  the evaluation of vision-and-language navigation instructions,'' in {\em
+  Proceedings of the 16th Conference of the European Chapter of the Association
+  for Computational Linguistics: Main Volume}, pp.~1302--1316, 2021.
+
+\bibitem{wang2019reinforced}
+X.~Wang, Q.~Huang, A.~Celikyilmaz, J.~Gao, D.~Shen, Y.-F. Wang, W.~Y. Wang, and
+  L.~Zhang, ``Reinforced cross-modal matching and self-supervised imitation
+  learning for vision-language navigation,'' in {\em 2019 IEEE/CVF Conference
+  on Computer Vision and Pattern Recognition (CVPR)}, pp.~6622--6631, IEEE
+  Computer Society, 2019.
+
+\bibitem{zhu2020vision}
+F.~Zhu, Y.~Zhu, X.~Chang, and X.~Liang, ``Vision-language navigation with
+  self-supervised auxiliary reasoning tasks,'' in {\em Proceedings of the
+  IEEE/CVF Conference on Computer Vision and Pattern Recognition},
+  pp.~10012--10022, 2020.
 
 \end{thebibliography}

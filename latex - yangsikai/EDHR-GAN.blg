@@ -2,47 +2,45 @@ This is BibTeX, Version 0.99d (TeX Live 2019/W32TeX)
 Capacity: max_strings=100000, hash_size=100000, hash_prime=85009
 The top-level auxiliary file: EDHR-GAN.aux
 The style file: ieeetr.bst
-I found no \citation commands---while reading file EDHR-GAN.aux
 Database file #1: coling.bib
-You've used 0 entries,
+You've used 27 entries,
             1876 wiz_defined-function locations,
-            477 strings with 3472 characters,
-and the built_in function-call counts, 20 in all, are:
-= -- 0
-> -- 0
+            616 strings with 9999 characters,
+and the built_in function-call counts, 10644 in all, are:
+= -- 1002
+> -- 482
 < -- 0
-+ -- 0
-- -- 0
-* -- 2
-:= -- 9
-add.period$ -- 0
-call.type$ -- 0
-change.case$ -- 0
++ -- 170
+- -- 143
+* -- 756
+:= -- 1402
+add.period$ -- 27
+call.type$ -- 27
+change.case$ -- 27
 chr.to.int$ -- 0
-cite$ -- 0
-duplicate$ -- 0
-empty$ -- 1
-format.name$ -- 0
-if$ -- 1
+cite$ -- 27
+duplicate$ -- 565
+empty$ -- 982
+format.name$ -- 143
+if$ -- 2583
 int.to.chr$ -- 0
-int.to.str$ -- 0
-missing$ -- 0
-newline$ -- 3
-num.names$ -- 0
-pop$ -- 0
+int.to.str$ -- 27
+missing$ -- 27
+newline$ -- 84
+num.names$ -- 27
+pop$ -- 165
 preamble$ -- 1
 purify$ -- 0
 quote$ -- 0
-skip$ -- 1
+skip$ -- 425
 stack$ -- 0
-substring$ -- 0
-swap$ -- 0
+substring$ -- 915
+swap$ -- 261
 text.length$ -- 0
 text.prefix$ -- 0
 top$ -- 0
 type$ -- 0
 warning$ -- 0
-while$ -- 0
-width$ -- 0
-write$ -- 2
-(There was 1 error message)
+while$ -- 97
+width$ -- 29
+write$ -- 250
